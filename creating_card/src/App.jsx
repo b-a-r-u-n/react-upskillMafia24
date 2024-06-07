@@ -1,11 +1,12 @@
 import { useState } from 'react'
+import Card from './Components/Card';
 
 function App() {
   const [count, setCount] = useState(0)
 
   return (
     <>
-      <h1>HELLO</h1>
+      <Card />
     </>
   )
 }

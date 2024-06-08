@@ -7,7 +7,7 @@ const Card = () => {
     
     return(
         <section className="bg-black">
-            <h1 className="text-5xl font-semibold text-center py-12 text-white">All the cards here</h1>
+            <h1 className="text-5xl font-semibold text-center py-12 text-white"> Akatsuki have now assembled</h1>
 
             <div className="card-container px-28 py-12 flex justify-between flex-wrap gap-y-40">
                 {

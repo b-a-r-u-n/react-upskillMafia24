@@ -6,8 +6,9 @@ import img4 from '../IMAGE/sasori1.jpg';
 import img5 from '../IMAGE/deidara.jpg';
 import img6 from '../IMAGE/kakuzu1.jpg';
 import img7 from '../IMAGE/hidan1.jpg';
-import img8 from '../IMAGE/zetsu1.jpg';
-import img9 from '../IMAGE/konan3.jpg';
+import img8 from '../IMAGE/orochimaru.jpg';
+import img9 from '../IMAGE/zetsu1.jpg';
+import img10 from '../IMAGE/pain.jpeg';
 
 const Data = [
     {
